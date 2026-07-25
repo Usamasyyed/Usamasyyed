@@ -53,8 +53,8 @@ I work at the intersection of **product, business operations, and technology**. 
 - 💶 Awarded **€20,000 funding** for a thesis-linked AI concept developed with Combiworks
 - 🚀 Selected for the **Summer Founders Program Tampere** and received **€6,000 funding** to validate a recommerce concept, including outreach to **100+ potential customers**
 - 🌍 Built an independent CRM and workflow-automation practice serving **20+ clients globally**
-- 🧴 Bootstrapped **BabaBeard** with roughly **$300**, operated it for about a year, and sold it for approximately **$3,500**
-- 💻 Built **Techinpack.com**, generated more than **$5,000 in lifetime revenue**, and later sold it for approximately **$4,000**
+- 🧴 During my early college years, I bootstrapped BabaBeard with roughly $300, operated it for about 6 months, and later sold the business for approximately $3,500
+- 💻 Also during my early college days, I built Techinpack.com, grew it to more than $5,000 in lifetime revenue, and later sold it for approximately $10,000
 
 ---
 
