@@ -167,13 +167,6 @@ The broader product direction includes a **Project Manager Agent** for schedules
 
 ---
 
-## 📈 GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Usamasyyed&show_icons=true&hide_border=true&rank_icon=github" alt="Usama's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamasyyed&layout=compact&hide_border=true" alt="Usama's top languages" />
-
 </div>
 
 ---
