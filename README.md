@@ -25,7 +25,7 @@ I work at the intersection of **product, business operations, and technology**. 
 
 ## 🧭 Experience snapshot
 
-### AI Product Lead · Combiworks / AirFaas
+### AI Product Owner · Combiworks / AirFaas 
 `Jan 2025 – Present · Freelance`
 
 - Shape AI-supported tools for engineering drawings and manufacturing-document workflows
@@ -174,7 +174,7 @@ The broader product direction includes a **Project Manager Agent** for schedules
 ## 🌱 Beyond the repositories
 
 - 🎓 Industrial Engineering background with a Master's focus on Business & Technology
-- 🧭 Career path: Process Analyst → Product Owner → CRM Consultant → AI Product Lead
+- 🧭 Career path: Process Analyst → Product Owner → CRM Consultant → AI Product Owner
 - 🏗️ Interested in useful B2B products that make complicated operational work easier
 - ♟️ Outside work: chess, badminton, cooking, and exploring new product ideas
 - 📍 Based in Tampere, Finland
