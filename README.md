@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = """<div align="center">
+<div align="center">
 
 # Hi, I'm Syed Muhammad Usama 👋
 
@@ -203,4 +201,4 @@ Explore the repositories, follow the projects, or connect with me through GitHub
 
 path = Path("/mnt/data/README_revised.md")
 path.write_text(content, encoding="utf-8")
-print(path)
+
