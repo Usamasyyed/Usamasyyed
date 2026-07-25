@@ -6,8 +6,6 @@
 
 I turn messy real-world problems into structured workflows, usable products, and measurable business improvements.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Usamasyyed&style=flat-square)](https://github.com/Usamasyyed)
-[![GitHub followers](https://img.shields.io/github/followers/Usamasyyed?style=flat-square)](https://github.com/Usamasyyed?tab=followers)
 ![Location](https://img.shields.io/badge/Based_in-Tampere%2C_Finland-0A66C2?style=flat-square)
 
 </div>
@@ -197,8 +195,4 @@ The broader product direction includes a **Project Manager Agent** for schedules
 Explore the repositories, follow the projects, or connect with me through GitHub.
 
 </div>
-"""
-
-path = Path("/mnt/data/README_revised.md")
-path.write_text(content, encoding="utf-8")
 
